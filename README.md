@@ -61,7 +61,7 @@ Not applicable for this project.
 
 ### Project Demo
 # Video
-COMING SOON.....
+https://youtu.be/GQrvCsl_k6Y?si=051x7q88S6czxUCO
 
 # Additional Demos
 SOON...
