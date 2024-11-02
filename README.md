@@ -33,7 +33,7 @@ For Software:
 # Installation
 Clone the repository: git clone <repository-url>
 Open the index.html file in your web browser.
-or  Click Here: 
+or  Click Here: https://iamkarthik2004.github.io/AdvancedCalculator/
 
 # Run
 Simply open index.html in any modern web browser to use the calculator.
