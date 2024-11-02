@@ -35,6 +35,8 @@ Clone the repository: git clone <repository-url>
 Open the index.html file in your web browser.
 or  Click Here: https://iamkarthik2004.github.io/AdvancedCalculator/
 
+📌📌📌 Note : If you using the calculator from Make it desktop mode and use it.
+
 # Run
 Simply open index.html in any modern web browser to use the calculator.
 
