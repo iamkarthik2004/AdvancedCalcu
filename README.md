@@ -1,45 +1,42 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
-FitWell Connect 🎯
+Calculator Project 🎯
 
 ## Basic Details
-### Team Name: FitWell Innovations
+### Team Name: TechTrek
 
 
 ### Team Members
 - Team Lead: Karthik Krishnan - SJCET Palai
 
 ### Project Description
-FitWell Connect is a health and wellness platform designed to help users track their fitness goals, nutrition, and overall well-being. The project aims to provide resources, community support, and personalized recommendations.
+This project is a multifunctional calculator capable of performing basic arithmetic operations, trigonometric calculations, square roots, permutations, and combinations. It's designed to be user-friendly and accessible for students and casual users alike.
 
 ### The Problem (that doesn't exist)
-People are overwhelmed by the vast amount of health information available online and don’t know where to start. FitWell Connect solves the "problem" of indecision by making healthy living decisions hilariously complicated!
+Students struggle with complex calculations and wish for a calculator that can do everything without needing to switch apps or devices. Who needs to calculate when they can just ask their friends?
 
 ### The Solution (that nobody asked for)
-We are creating a website where users can engage in ridiculous fitness challenges like "Who can hold a plank while reciting the alphabet backwards?" and receive absurdly specific dietary advice like "Eat only purple foods on Thursdays for better health."
+We created a calculator that not only performs basic math but also adds a bit of flair with functions like sine, cosine, tangent, and even square roots, all wrapped in a colorful interface that could distract you from your homework!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-
 Languages used: HTML, CSS, JavaScript
-Frameworks used: None (Vanilla JS)
-Libraries used: jQuery
-Tools used: Visual Studio Code, Git
-For Hardware:
+Frameworks used: None
+Libraries used: None
+Tools used: Text Editor (e.g., Visual Studio Code)
 
-None required for this web-based project.
+For Hardware:
+Not applicable for this project.
 
 ### Implementation
 For Software:
 
 # Installation
-bash
-Copy code
-git clone https://github.com/your-username/FitWell-Connect.git
-cd FitWell-Connect
+Clone the repository: git clone <repository-url>
+Open the index.html file in your web browser.
+or  Click Here: 
 
 # Run
-Open index.html in your web browser.
+Simply open index.html in any modern web browser to use the calculator.
 
 ### Project Documentation
 For Software:
@@ -57,17 +54,17 @@ This diagram outlines the user flow through the FitWell Connect website.
 For Hardware:
 
 # Schematic & Circuit
-Not applicable for this project.
+(Not applicable for this project)
 
 # Build Photos
 Not applicable for this project.
 
 ### Project Demo
 # Video
-[Add your demo video link here] The demo video shows how to navigate the FitWell Connect platform and highlights its features.
+COMING SOON.....
 
 # Additional Demos
-[Add any extra demo materials/links]
+SOON...
 
 ## Team Contributions
 Karthik Krishnan: Project management, frontend development, and design.
