@@ -4,7 +4,6 @@ Basic Details
 Team Name: FitWell Innovations
 Team Members
 Team Lead: Karthik Krishnan - SJCET Palai
-Member 2: Manuel B George - SJCET Palai
 Project Description
 FitWell Connect is a health and wellness platform designed to help users track their fitness goals, nutrition, and overall well-being. The project aims to provide resources, community support, and personalized recommendations.
 
@@ -66,4 +65,3 @@ Additional Demos
 
 Team Contributions
 Karthik Krishnan: Project management, frontend development, and design.
-Manuel B George: Backend setup, content creation, and user testing.
