@@ -44,6 +44,8 @@ Simply open index.html in any modern web browser to use the calculator.
 For Software:
 
 # Screenshots (Add at least 3)
+
+<a <img align="center" src="ss1.png" alt=karthik-krishnan-775682251" height="30" width="30" /></a>
 This screenshot shows the homepage with our welcoming message and navigation bar.
 
 This screenshot displays the services offered by Advanced Calculator.
