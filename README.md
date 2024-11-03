@@ -62,7 +62,6 @@ For Software:
 <img src="diagram.png" alt="Description of Image" width="700" height="500">
 
 
-For Hardware:
 
 # Schematic & Circuit
 (Not applicable for this project)
