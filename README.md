@@ -57,7 +57,8 @@ For Software:
 
 
 # Diagrams
-This diagram outlines the user flow through the Advanced Calculator Website.
+<img src="diagram.png" alt="Description of Image" width="700" height="500">
+
 
 For Hardware:
 
@@ -72,7 +73,7 @@ Not applicable for this project.
 https://youtu.be/GQrvCsl_k6Y?si=051x7q88S6czxUCO
 
 # Additional Demos
-SOON...
+
 
 ## Team Contributions
 Karthik Krishnan: Project management, frontend development, and design.
