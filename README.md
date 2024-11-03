@@ -46,16 +46,15 @@ For Software:
 # Screenshots (Add at least 3)
 
 <img src="ss1.png" alt="Description of Image" width="300" height="200">
+<br><br>
 <img src="ss2.png" alt="Description of Image" width="300" height="200">
+<br><br>
 <img src="ss3.png" alt="Description of Image" width="300" height="200">
+<br><br>
 <img src="ss4.png" alt="Description of Image" width="300" height="200">
+<br><br>
 <img src="ss5.png" alt="Description of Image" width="300" height="200">
 
-This screenshot shows the homepage with our welcoming message and navigation bar.
-
-This screenshot displays the services offered by Advanced Calculator.
-
-Here, users can find information about our mission and values.
 
 # Diagrams
 This diagram outlines the user flow through the Advanced Calculator Website.
