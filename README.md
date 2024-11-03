@@ -45,7 +45,12 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-<a <img align="center" src="ss1.png" alt=karthik-krishnan-775682251" height="30" width="30" /></a>
+<img src="ss1.png" alt="Description of Image" width="300" height="200">
+<img src="ss2.png" alt="Description of Image" width="300" height="200">
+<img src="ss3.png" alt="Description of Image" width="300" height="200">
+<img src="ss4.png" alt="Description of Image" width="300" height="200">
+<img src="ss5.png" alt="Description of Image" width="300" height="200">
+
 This screenshot shows the homepage with our welcoming message and navigation bar.
 
 This screenshot displays the services offered by Advanced Calculator.
