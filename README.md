@@ -1,4 +1,4 @@
-Calculator Project 🎯
+PROJECT - CalcuMaster 🎯
 
 ## Basic Details
 ### Team Name: TechTrek
@@ -33,7 +33,7 @@ For Software:
 # Installation
 Clone the repository: git clone <repository-url>
 Open the index.html file in your web browser.
-or  Click Here: https://iamkarthik2004.github.io/AdvancedCalculator/
+or  Click Here: https://iamkarthik2004.github.io/CalcuMaster/
 
 📌📌📌 Note : If you using the calculator from Make it desktop mode and use it.
 
