@@ -46,12 +46,12 @@ For Software:
 # Screenshots (Add at least 3)
 This screenshot shows the homepage with our welcoming message and navigation bar.
 
-This screenshot displays the services offered by FitWell Connect.
+This screenshot displays the services offered by Advanced Calculator.
 
 Here, users can find information about our mission and values.
 
 # Diagrams
-This diagram outlines the user flow through the FitWell Connect website.
+This diagram outlines the user flow through the Advanced Calculator Website.
 
 For Hardware:
 
